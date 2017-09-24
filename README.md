@@ -4,7 +4,7 @@ Fluent style API for constructing custom editor menus presented using `GenericMe
 default although alternative presentation can be configured for project.
 
 ```sh
-$ npm install rotorz/unity3d-editor-menu
+$ npm install --save rotorz/unity3d-editor-menu
 ```
 
 This package is compatible with [unity3d-package-syncer](https://github.com/rotorz/unity3d-package-syncer).
