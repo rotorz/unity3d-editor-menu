@@ -4,5 +4,11 @@
         "rotorz.dotnet-exception-utils",
         "rotorz.dotnet-json",
         "rotorz.unity3d-package-utils.editor"
-    ]
+    ],
+    "optionalUnityReferences": [],
+    "includePlatforms": [
+        "Editor"
+    ],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false
 }
