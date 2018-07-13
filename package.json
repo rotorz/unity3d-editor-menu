@@ -1,6 +1,6 @@
 {
   "name": "@rotorz/unity3d-editor-menu",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Fluent style API for constructing custom editor menus presented using `GenericMenu` by default although alternative presentation can be configured for project.",
   "main": "index.js",
   "scripts": {
